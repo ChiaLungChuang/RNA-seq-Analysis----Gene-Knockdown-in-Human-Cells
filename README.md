@@ -100,7 +100,7 @@ All analyses run for All DEGs, Upregulated only, and Downregulated only, at both
 
 ## Requirements
 
-**R version:** ≥ 4.0
+**R version:** ≥ 4.5.1
 
 **CRAN packages:**
 ```r
